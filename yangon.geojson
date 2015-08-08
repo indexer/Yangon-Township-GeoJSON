@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Featur
+      "type": "Feature",
       "properties": {
         "stroke": "#210000",
         "stroke-width":1,
