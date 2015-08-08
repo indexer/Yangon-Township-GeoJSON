@@ -3,6 +3,13 @@
   "features": [
     {
       "type": "Feature",
+       "style":{
+             "strokeColor":"#0404B4",
+             "strokeOpacity":0.7,
+             "strokeWidth":2,
+             "fillColor":"#0000ff",
+             "fillOpacity":0.1
+   }
       "properties": {
         "stroke": "#210000",
         "stroke-width": 1,
