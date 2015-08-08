@@ -3,19 +3,13 @@
   "features": [
     {
       "type": "Feature",
-       "style":{
-             "strokeColor":"#0404B4",
-             "strokeOpacity":0.7,
-             "strokeWidth":2,
-             "fillColor":"#0000ff",
-             "fillOpacity":0.1
-   }
+       
       "properties": {
         "stroke": "#210000",
-        "stroke-width": 1,
+        "stroke-width": 0.5,
         "stroke-opacity": 0.5,
         "fill": "ff0000",
-        "fill-opacity": 0.2,
+        "fill-opacity": 0.7,
         "name": "Kyauktada"
       },
       "geometry": {
