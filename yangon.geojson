@@ -2,12 +2,11 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
-       
+      "type": "Featur
       "properties": {
         "stroke": "#210000",
-        "stroke-width": 0.5,
-        "stroke-opacity": 0.5,
+        "stroke-width":1,
+        "stroke-opacity": 0,.5,
         "fill": "ff0000",
         "fill-opacity": 0.7,
         "name": "Kyauktada"
